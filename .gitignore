@@ -1,0 +1,8 @@
+.idea
+*.iml
+target
+*.log
+logs
+.DS_STORE
+*.pyc
+
